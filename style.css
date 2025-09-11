@@ -1,0 +1,10 @@
+table, tr, th, td, thead {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: sans-serif;
+    border: 1px solid black;
+}
+thead{
+    flex-direction: flex-end;
+}
