@@ -1,10 +1,12 @@
 table, tr, th, td, thead {
-    width: 100%;
-    border-collapse: collapse;
+    font-size: 10px;
+    padding: 3px 6px;
+    border: 1px solid black;
     text-align: center;
     font-family: sans-serif;
-    border: 1px solid black;
+    border-collapse: collapse;
 }
-thead{
-    flex-direction: flex-end;
+table {
+    width: auto;
+    margin: 0 auto;
 }
