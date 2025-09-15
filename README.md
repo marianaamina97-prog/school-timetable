@@ -20,6 +20,7 @@ CSS is used to improve the appearance of the timetable
   <li>Helps in merging cells in rows and columns using rowspan and colspan</li>
 </ul>
 
+
 ## Conclusion
 HTML bulids the skeleton while the CSS makes it presentable.
 Both work together to make a timetable that is functional and visually clear.
