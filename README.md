@@ -19,7 +19,7 @@ CSS is used to improve the appearance of the timetable
   <li>Differentiate eader cells < th > from normal cells < td ></li>
   <li>Helps in merging cells in rows and columns using rowspan and colspan</li>
 </ul>
-
+![school timetable](<image/Screenshot 2025-09-15 102339.png>)
 
 ## Conclusion
 HTML bulids the skeleton while the CSS makes it presentable.
