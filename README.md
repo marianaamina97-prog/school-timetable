@@ -23,3 +23,6 @@ CSS is used to improve the appearance of the timetable
 ## Conclusion
 HTML bulids the skeleton while the CSS makes it presentable.
 Both work together to make a timetable that is functional and visually clear.
+
+For reference:
+![timetable preview](https://github.com/marianaamina97-prog/school-timetable/blob/77878ce88388dc931dd8ffe2e6b6e8b7d55f7fa3/Screenshot%202025-09-15%20234459.png)
